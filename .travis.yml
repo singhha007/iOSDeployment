@@ -1,0 +1,5 @@
+language: swift
+osx_image: xcode11.1
+xcode_workspace: iOSDeployment.xcodeproj
+xcode_scheme: iOSDeployment
+xcode_sdk: iphonesimulator8.4
